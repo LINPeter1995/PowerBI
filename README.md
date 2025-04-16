@@ -1,4 +1,4 @@
-# Power BI 與 MongoDB 整合教學
+# Power BI 與 MongoDB 整合
 
 下載 Power BI Desktop
 
