@@ -30,7 +30,7 @@ https://dev.mysql.com/downloads/connector/odbc/
 
 BI-取得資料-其他-OBDC-MongoDBDSN
 
-⚙2. 啟動 MongoDB 服務（確保 MongoDB 正常執行）
+2. 啟動 MongoDB 服務（確保 MongoDB 正常執行）
 
 MongoDB 預設 port 是 27017
 
