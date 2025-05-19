@@ -30,7 +30,7 @@ https://dev.mysql.com/downloads/connector/odbc/
 
 BI-取得資料-其他-OBDC-MongoDBDSN
 
-⚙️ 2. 啟動 MongoDB 服務（確保 MongoDB 正常執行）
+⚙2. 啟動 MongoDB 服務（確保 MongoDB 正常執行）
 
 MongoDB 預設 port 是 27017
 
@@ -76,9 +76,9 @@ User	無須填寫（可空）
 
 Password	無須填寫（可空）
 
-✅ 點擊「Test」→ 成功後按「OK」
+點擊「Test」→ 成功後按「OK」
 
-📥 5. Power BI 連接 MongoDB（透過 ODBC）
+5. Power BI 連接 MongoDB（透過 ODBC）
 
 ➤ Power BI Desktop 操作：
 
@@ -90,7 +90,7 @@ Password	無須填寫（可空）
 
 選擇你想要分析的 MongoDB 資料表（collections）
 
-💾 6. 儲存並建立視覺化報表
+6. 儲存並建立視覺化報表
 
 匯入資料後，你可以用：
 
@@ -102,7 +102,7 @@ Password	無須填寫（可空）
 
 完成後可儲存 .pbix 檔案作為專案
 
-📌 備註提醒
+備註提醒
 
 每次開 Power BI 前，必須先啟動 mongosqld
 
