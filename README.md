@@ -80,7 +80,7 @@ Password	無須填寫（可空）
 
 5. Power BI 連接 MongoDB（透過 ODBC）
 
-➤ Power BI Desktop 操作：
+Power BI Desktop 操作：
 
 開啟 Power BI Desktop
 
